@@ -20,6 +20,7 @@ end
 
 
 
+
 def qualified_candidates(candidates)
   candidates.each do |candidate|
     if experienced?(candidate) && github_pt_check?(candidate) && ruby_python_check?(candidate) && age_over_17?(candidate) && application_date?(candidate)
