@@ -6,4 +6,11 @@ require './filters'
 
 ## Your test code can go here
 
-pp @candidates
+
+# find(2)
+# puts age_over_17?(@candidates[3])
+# puts experienced?(@candidates[3])
+
+
+
+
